@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -10,30 +12,24 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 89f8e9930d
+key: d0defc179f
 ```
 
+Hey! This is a sample exercise yo!
+
+![test](https://assets.datacamp.com/production/course_7399/datasets/profile_sq.jpg)
 
 `@instructions`
+Just hit submit answer, it should do the trick
 
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
+
